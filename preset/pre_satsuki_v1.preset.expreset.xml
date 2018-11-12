@@ -1,0 +1,6 @@
+<plugins>
+  <plugin name="CM3D2.MaidVoicePitch">
+    <prop name="SLIDER_TEMPLATE" value="Sybaris/UnityInjector/Config/MaidVoicePitchSlider.xml" />
+    <prop name="WIDESLIDER" value="True" />
+  </plugin>
+</plugins>
