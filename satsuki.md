@@ -155,12 +155,7 @@
 
 COM3D2.AddModsSlider.Pluginがないと身長が正しい高さになりません。
 
-```
-```
-```
-```
-```
-```
+![](https://placehold.jp/ffffff/ffffff/1000x1.png)
 
 
 
