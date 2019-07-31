@@ -149,13 +149,14 @@
 
 ## プラグイン
 
-<img alt="正しい身長" src="./img/satsuki_height_fix.jpg" height="250" align="right">
+<p align="center">
+    <img alt="正しい身長" src="./img/satsuki_height.jpg">
+    エディット起動時のカメラ位置で、はみ出していたら正常です。
+</p>
 
 **COM3D2.AddModsSlider.Plugin** が必須です。 **[ReiPatcherレス化プラグイン一式](https://seesaawiki.jp/com3d2_kaizou_info/d/%a5%d7%a5%e9%a5%b0%a5%a4%a5%f3)** から導入してください。
 
 COM3D2.AddModsSlider.Pluginがないと身長が正しい高さになりません。
-
-![](https://placehold.jp/ffffff/ffffff/1000x1.png)
 
 
 
